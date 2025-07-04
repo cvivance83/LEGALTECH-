@@ -1,0 +1,22 @@
+# Requirements pour le script de tagging automatique de contrats
+# Installation: pip install -r contract_tagger_requirements.txt
+
+# Traitement de texte et NLP
+spacy>=3.6.0
+nltk>=3.8.1
+scikit-learn>=1.3.0
+
+# Manipulation de données
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Export et formats de fichiers
+openpyxl>=3.1.0
+xlrd>=2.0.1
+
+# Logging et utilitaires
+python-dotenv>=1.0.0
+
+# Modèles spaCy recommandés (à installer séparément)
+# python -m spacy download fr_core_news_sm
+# python -m spacy download en_core_web_sm
