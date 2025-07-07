@@ -1,0 +1,62 @@
+CONTRAT DE VENTE
+
+Article 1 - Parties
+Entre la société ABC TECHNOLOGIES SARL, au capital de 50 000 euros, immatriculée au RCS de Paris sous le numéro 123 456 789, ayant son siège social au 123 Avenue des Champs-Élysées, 75008 Paris, représentée par son gérant Monsieur Jean DUPONT, ci-après dénommée "le Vendeur",
+
+Et la société XYZ SOLUTIONS SA, au capital de 200 000 euros, immatriculée au RCS de Lyon sous le numéro 987 654 321, ayant son siège social au 456 Rue de la République, 69002 Lyon, représentée par sa directrice générale Madame Marie MARTIN, ci-après dénommée "l'Acheteur",
+
+Il a été convenu et arrêté ce qui suit :
+
+Article 2 - Objet du contrat
+Le présent contrat a pour objet la vente par le Vendeur à l'Acheteur de matériel informatique comprenant :
+- 50 ordinateurs portables de marque Dell
+- 20 écrans 24 pouces
+- 10 imprimantes laser
+- Accessoires divers (souris, claviers, câbles)
+
+L'ensemble selon les spécifications techniques détaillées en annexe 1 du présent contrat.
+
+Article 3 - Prix et modalités de paiement
+Le prix total de la vente s'élève à la somme de CENT MILLE EUROS (100 000 €) HT, soit 120 000 euros TTC.
+
+Le paiement sera effectué selon les modalités suivantes :
+- Un acompte de 30% à la signature du présent contrat
+- Le solde à la livraison, sur présentation de la facture
+
+Toute somme non payée à l'échéance portera de plein droit intérêt au taux légal majoré de 3 points.
+
+Article 4 - Livraison
+La livraison aura lieu dans un délai maximum de 30 jours ouvrés à compter de la réception de l'acompte, aux locaux de l'Acheteur.
+
+Les risques sont transférés à l'Acheteur lors de la remise du matériel au transporteur.
+
+Article 5 - Garanties
+Le Vendeur garantit la conformité du matériel livré aux spécifications convenues. Il garantit également le matériel contre tout vice de fabrication pendant une période de 24 mois à compter de la livraison.
+
+En cas de défaillance du matériel pendant la période de garantie, le Vendeur s'engage à procéder à la réparation ou au remplacement du matériel défaillant dans un délai de 72 heures.
+
+Article 6 - Responsabilité
+La responsabilité du Vendeur est limitée au remplacement ou à la réparation du matériel défaillant. En aucun cas, le Vendeur ne pourra être tenu responsable des dommages indirects ou consécutifs.
+
+Article 7 - Force majeure
+Les parties ne peuvent être tenues pour responsables si la non-exécution ou le retard dans l'exécution de l'une quelconque de leurs obligations décrites dans le présent contrat découle d'un cas de force majeure.
+
+Article 8 - Résiliation
+En cas de manquement grave de l'une des parties aux obligations du présent contrat, celui-ci pourra être résilié de plein droit par l'autre partie, après mise en demeure restée sans effet pendant quinze jours.
+
+Article 9 - Confidentialité
+Chaque partie s'engage à maintenir strictement confidentielles toutes les informations techniques, commerciales ou financières de l'autre partie dont elle aura eu connaissance dans le cadre de l'exécution du présent contrat.
+
+Article 10 - Juridiction compétente
+Tout litige relatif à l'interprétation ou à l'exécution du présent contrat sera de la compétence exclusive du Tribunal de Commerce de Paris.
+
+Le présent contrat est soumis au droit français.
+
+Article 11 - Signature
+Le présent contrat est établi en deux exemplaires originaux.
+
+Fait à Paris, le [DATE]
+
+Le Vendeur                           L'Acheteur
+Jean DUPONT                          Marie MARTIN
+Gérant ABC TECHNOLOGIES SARL         Directrice XYZ SOLUTIONS SA

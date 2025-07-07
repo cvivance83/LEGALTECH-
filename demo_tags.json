@@ -1,0 +1,80 @@
+[
+  {
+    "text": "Article 1 - Parties\n    Entre la société ABC SARL, représentée par son gérant Monsieur Dupont,\n    ci-après dénommée \"le Vendeur\", et la société XYZ SA, représentée par\n    sa directrice Madame Martin, ci-après dénommée \"l'Acheteur\".",
+    "clause_type": "parties",
+    "confidence": 0.7461538461538462,
+    "keywords": [
+      "société",
+      "représentée",
+      "dénommée",
+      "article",
+      "parties"
+    ],
+    "article_number": "1"
+  },
+  {
+    "text": "Article 2 - Objet\n    Le présent contrat a pour objet la vente de matériel informatique\n    selon les spécifications définies en annexe.",
+    "clause_type": "objet",
+    "confidence": 0.7749999999999999,
+    "keywords": [
+      "objet",
+      "article",
+      "présent",
+      "contrat",
+      "vente"
+    ],
+    "article_number": "2"
+  },
+  {
+    "text": "Article 3 - Prix et Paiement\n    Le prix total de la vente s'élève à 50 000 euros HT.\n    Le paiement sera effectué en trois versements égaux.",
+    "clause_type": "prix_paiement",
+    "confidence": 0.75,
+    "keywords": [
+      "prix",
+      "paiement",
+      "article",
+      "total",
+      "vente"
+    ],
+    "article_number": "3"
+  },
+  {
+    "text": "Article 4 - Garanties\n    Le vendeur garantit la conformité du matériel livré pendant une\n    période de 24 mois à compter de la livraison.",
+    "clause_type": "duree",
+    "confidence": 0.5266666666666666,
+    "keywords": [
+      "article",
+      "garanties",
+      "vendeur",
+      "garantit",
+      "conformité"
+    ],
+    "article_number": "4"
+  },
+  {
+    "text": "Article 5 - Résiliation\n    En cas de manquement grave aux obligations contractuelles,\n    le contrat pourra être résilié de plein droit.",
+    "clause_type": "resiliation",
+    "confidence": 0.5666666666666667,
+    "keywords": [
+      "article",
+      "résiliation",
+      "manquement",
+      "grave",
+      "obligations"
+    ],
+    "article_number": "5"
+  },
+  {
+    "text": "Article 6 - Confidentialité\n    Les informations échangées dans le cadre de ce contrat \n    resteront strictement confidentielles.",
+    "clause_type": "confidentialite",
+    "confidence": 0.29333333333333333,
+    "keywords": [
+      "article",
+      "confidentialité",
+      "informations",
+      "échangées",
+      "cadre"
+    ],
+    "article_number": "6"
+  }
+]
